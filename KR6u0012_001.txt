@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:30.862513
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 天公經
 #+PROPERTY: CBETA_ID T85n2876
 #+PROPERTY: ID KR6u0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2876
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0012_T_000-1361a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0012_T_001-1361a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2876¶
-
- 佛說天公經¶
+No. 2876¶
+佛說天公經¶
 ¶
 
 鎘銅灌作柱。象□作屋椽。虎珀作屋𣖷。真珠¶
